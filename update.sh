@@ -7,7 +7,7 @@ echo "<!DOCTYPE html>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
     <title>WebDev Studies | Cordeiro's DEV</title>
-    <meta description='This is a portifolio of webdevelopment practice and studies'/>
+    <meta name='description' content='This is a portifolio of webdevelopment practice and studies'/>
     <link rel='preconnect' href='https://fonts.gstatic.com'>
     <link href='https://fonts.googleapis.com/css2?family=Roboto&display=swap' rel='stylesheet'>
     <style>
